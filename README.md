@@ -49,7 +49,7 @@ Resello automates the appraisal process for second-hand electronics. It guides u
 ### 1. Prerequisites
 - Python 3.9+
 - API Keys: 
-  - `GOOGLE_API_KEY` (Gemini)
+  - `GOOGLE_API_KEY` (Gemini) 
   - `SERPAPI_KEY` (Market Research)
 
 ### 2. Installation
@@ -84,8 +84,13 @@ streamlit run app.py
 ## 📸 How it Works
 1. **Input Product Details:** Enter the model name and usage duration.
 2. **Upload Photos:** Capture 5-6 standardized views. CLIP ensures you're uploading the correct side.
-3. **AI Analysis:** Gemini scans for defects and searches for the latest market price.
-4. **Get Your Report:** Download a comprehensive PDF with the final price and breakdown.
+4. **AI Analysis:** Gemini scans for defects and searches for the latest market price.
+5. **Get Your Report:** Download a comprehensive PDF with the final price and breakdown.
 
----
-Developed as part of the **NTI Re-Commerce Project**. 🚀
+
+
+
+## 🚀 Demo Link :
+[Demo :](https://drive.google.com/file/d/19KTkg7TiX_ZU_mwuVL0Eu130d0VZ3zPI/view)
+
+*We will quickly start the presentation by showing the app’s status on mobile. After part of the presentation, we will move on to a laptop demo while it continues uploading images until the end.*
